@@ -1,7 +1,4 @@
-$\Huge{\textsf{\textbf{\textcolor{ProcessBlue}{Profile in progress}}}}$
+$\Huge{\textsf{\textbf{\textcolor{ProcessBlue}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
+$\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
 
-
-
-
-https://github.com/1993bio/1993bio/assets/63024586/71848d7c-972c-4b3b-8cbd-e35db37a5770
 
