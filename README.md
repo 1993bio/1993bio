@@ -1,3 +1,4 @@
+
 $\Huge{\textsf{\textbf{\textcolor{ProcessBlue}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
 $\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
 
@@ -69,7 +70,7 @@ $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   
-  <a href="mailto:alcc.biology@gmail" target="_blank">
+  <a href="mailto:alcc.biology@gmail?subject=JOB REQUISITON" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
   
