@@ -7,8 +7,6 @@ $\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
   </p>
 </div>
 
-
-<div align=center>
 <details>
   <summary>$\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{More about me}}}}$</summary>
 
@@ -21,4 +19,3 @@ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{During my master's degree I
 
   - :computer: $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I'm currently developing web systems for personal projects that were shelved and other colabs as a freelancer.}}}}$
 $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I'm planning the material for a book I'm writing about autonomous processes in bioinformatics routines.}}}}$
-</div>
