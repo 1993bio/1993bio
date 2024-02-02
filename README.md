@@ -29,28 +29,25 @@ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I am also planning the mate
 <p></p>
 
 $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{My technical skills}}}}$
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Andre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Andre-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+</div>
 <p></p>
-
-$\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Programming Languages}}}}$
-
-<p></p>
-
-$\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Web frameworks}}}}$
   
-<p></p>
-
-$\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Data Science}}}}$
-
-<p></p>
-
-$\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Tools}}}}$
-  
-<p></p>
-
 $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
 
-<p></p>
+<div align="left">
+  <img href= "https://www.linkedin.com/in/andr%C3%A9-luiz-caliari-b34981195/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+</div>
 
+###
 
 
