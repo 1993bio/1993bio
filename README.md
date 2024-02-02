@@ -1,24 +1,30 @@
+<!--Hello developer, in this readme you will find a simple html tag used to insert images and links. For the text, Latex text marking and editing was used, which made it possible to leave the text blue, symbolizing the color of the Blue lightsaber, one of the most predominant colors, blue sabers are the most common in the entire Jedi Order. Its color signifies righteousness and bravery, as well as the user's strong “spiritual alignment” with the crystal.-->
 
+<!--Quote from Master Yoda-->
 $\Huge{\textsf{\textbf{\textcolor{#00779a}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
 $\Huge{\textsf{\textbf{\textcolor{#00779a}{– Yoda}}}}$
 
+<!--My hystory in the starwars-->
 <div align=center>
   <p>
     <img src="https://github.com/1993bio/1993bio/assets/63024586/1f61f043-ba08-4cb8-aed1-a9eeadd0e1d0" width="550">
   </p>
 </div>
 
+<!-- My github status-->
 <div align=center>
 <a href="https://github.com/1993bio/github-readme-stats">
 <img height = 150em align="left" src="https://github-readme-stats.vercel.app/api?username=1993bio&theme=shadow_blue&border_radius=4.5&show_icons=true&include_all_commits=true&count_private=true"/>
 <img height = 150em align="rihgt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1993bio&layout=compact&theme=shadow_blue&border_radius=1.5&show_icons=true&langs_count=8&card_width=110"/>
 </div>
 
+<!-- More details tab-->
 <details>
   <summary>$\LARGE{\textsf{\textbf{\textcolor{#00779a}{More about me}}}}$</summary> 
   
 <p></p>
 
+<!-- My bio and career, written in latex -->
 :mortar_board: $\normalsize{\textsf{\textbf{\textcolor{#00779a}{I am 30 years old, I have a degree in biology and a master's degree in genetics with an emphasis on bioinformatics.}}}}$ $\normalsize{\textsf{\textbf{\textcolor{#00779a}{Throughout my degree in biology I was involved in genomic data analysis and statistics.}}}}$
 $\normalsize{\textsf{\textbf{\textcolor{#00779a}{In my Undergraduate thesis I worked on the development of machine learning models applied to the medical diagnosis of}}}}$
 $\normalsize{\textsf{\textbf{\textcolor{#00779a}{various diseases. During my master's degree I was involved in mutation analysis and transcriptomic data, where I was able}}}}$ $\normalsize{\textsf{\textbf{\textcolor{#00779a}{to develop my skills in data science}}}}$ 
@@ -36,7 +42,7 @@ $\normalsize{\textsf{\textbf{\textcolor{#00779a}{I am also planning the material
 <p></p>
 
 ##
-
+<!--My skills img-->
 $\LARGE{\textsf{\textbf{\textcolor{#00779a}{My technical skills}}}}$
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -60,13 +66,13 @@ $\LARGE{\textsf{\textbf{\textcolor{#00779a}{My technical skills}}}}$
 <p></p>
 
 ##
-
+<!--Soft skills-->
 $\LARGE{\textsf{\textbf{\textcolor{#00779a}{Soft skills}}}}$
 
 $\normalsize{\textsf{\textbf{\textcolor{#00779a}{Find it out!}}}}$
 
 ##
-  
+<!--My contact-->
 $\LARGE{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 
 <div>
@@ -75,4 +81,8 @@ $\LARGE{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 
 ##
 
+<!--My final text-->
+$\Huge{\textsf{\textbf{\textcolor{#00779a}{“Always be on the right side of the force.”}}}}$ 
+
+##
 
