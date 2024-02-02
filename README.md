@@ -23,10 +23,12 @@ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I am also planning the mate
 <p></p>
 
 $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{My technical skills}}}}$
+
 <p></p>
 
 $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Programming Languages}}}}$
-<p></p
+
+<p></p>
 
 $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Web frameworks}}}}$
   
