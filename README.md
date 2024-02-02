@@ -8,6 +8,20 @@ $\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
   </p>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=1993bio&theme=shadow_blue&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=1993bio&layout=compact&theme=shadow_blue&show_icons=true&langs_count=8&card_width=110" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1993bio&theme=shadow_blue&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1993bio&theme=shadow_blue&repo=convoychat" />
+</a>
+
 <details>
   <summary>$\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{More about me}}}}$</summary> 
   
