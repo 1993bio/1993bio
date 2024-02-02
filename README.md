@@ -10,7 +10,7 @@ $\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
 <details>
   <summary>$\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{More about me}}}}$</summary> 
 <p></p>
-:mortar_board: $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I am 30 years old, I have a degree in biology and a master's degree in human genetics with an emphasis on bioinformatics.}}}}$ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Throughout my degree in biology I was involved in genomic data analysis and statistics.}}}}$
+:mortar_board: $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{I am 30 years old, I have a degree in biology and a master's degree in genetics with an emphasis on bioinformatics.}}}}$ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Throughout my degree in biology I was involved in genomic data analysis and statistics.}}}}$
 $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{In my Undergraduate thesis I worked on the development of machine learning models applied to the medical diagnosis of}}}}$
 $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{various diseases. During my master's degree I was involved in mutation analysis and transcriptomic data, where I was able to}}}}$ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{develop my skills in data science}}}}$ 
 
