@@ -69,7 +69,7 @@ $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
   
-  <a href="mailto:alcc.biology@gmail.com?subject=NEW JOB">
+  <a href="mailto:alcc.biology@gmail" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
   
