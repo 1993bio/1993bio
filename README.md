@@ -73,7 +73,7 @@ $\normalsize{\textsf{\textbf{\textcolor{#00779a}{Find it out!}}}}$
 
 ##
 <!--My contact-->
-$\LARGE{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
+$\Huge{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 
 <div>
   <img align="center" alt="Andre-social_media" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
@@ -82,6 +82,6 @@ $\LARGE{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 ##
 
 <!--My final text-->
-$\Huge{\textsf{\textbf{\textcolor{#00779a}{Always be on the right side of the force.}}}}$ 
+$\Huge{\textsf{\textbf{\textcolor{#00779a}{– Always be on the right side of the Force}}}}$
 
 
