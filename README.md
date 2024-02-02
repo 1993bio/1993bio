@@ -68,7 +68,7 @@ $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
   <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-caliari-b34981195/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to={{alcc.biology@gmail.com}}&su=Subject&body=Body%20Text" target="_blank">
+  <a href="mailto:alcc.biology@gmail.com?subject=NEW JOB" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
   </a>
   <a href="https://wa.me/5535991061869" target="_blank">
