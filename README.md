@@ -63,25 +63,9 @@ $\normalsize{\textsf{\textbf{\textcolor{ProcessBlue}{Find it out!}}}}$
   
 $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
 
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-luiz-caliari-b34981195/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
-  </a>
-  
-  <a href="mailto:alcc.biology@gmail?subject=JOB REQUISITON" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="30" alt="gmail logo"  />
-  </a>
-  
-  <a href="https://wa.me/5535991061869" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
-  </a>
+<div>
+  <img align="center" alt="Andre-social_media" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </div>
-
-###
-
-###
 
 ##
 
