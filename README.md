@@ -1,4 +1,4 @@
-$\Huge{\textsf{\textbf{\textcolor{ProcessBlue}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
+![django-plain](https://github.com/1993bio/1993bio/assets/63024586/c865ee61-f8ea-4bae-a138-a0256b9c3ef8)$\Huge{\textsf{\textbf{\textcolor{ProcessBlue}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
 $\Huge{\textsf{\textbf{\textcolor{OliveGreen}{– Yoda}}}}$
 
 <div align=center>
@@ -36,17 +36,12 @@ $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{My technical skills}}}}$
   <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+  <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"
 </div>
 <p></p>
   
 $\LARGE{\textsf{\textbf{\textcolor{ProcessBlue}{Contact me}}}}$
 
-<div align="left">
-  <img href= "https://www.linkedin.com/in/andr%C3%A9-luiz-caliari-b34981195/" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-</div>
 
 ###
 
