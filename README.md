@@ -76,6 +76,7 @@ $\normalsize{\textsf{\textbf{\textcolor{#00779a}{Find it out!}}}}$
 $\Huge{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 
 <div>
+  <a href = "https://www.linkedin.com/in/andr%C3%A9-luiz-caliari-b34981195/">
   <img align="center" alt="Andre-social_media" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
 </div>
 
