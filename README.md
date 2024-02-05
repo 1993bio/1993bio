@@ -1,4 +1,11 @@
-<!--Hello developer, in this readme you will find a simple html tag used to insert images and links. For the text, Latex text marking and editing was used, which made it possible to leave the text blue, symbolizing the color of the Blue lightsaber, one of the most predominant colors, blue sabers are the most common in the entire Jedi Order. Its color signifies righteousness and bravery, as well as the user's strong “spiritual alignment” with the crystal.-->
+<!--
+Hello developer, in this readme you will find a simple html tag used to insert images and links. For the text, Latex text marking and editing was used, If you access it on a cell phone you will see that the text is extended, however, to work better on computer screens, the text was configured (cropped) to appear better on larger screens. Gihub's Markdown accepts the Latex text editor syntax, which made it possible to make the text blue, symbolizing the color of the Blue Lightsaber, one of the most predominant colors, blue sabers are the most common throughout the Jedi Order. Its color signifies righteousness and bravery, as well as the user's strong “spiritual alignment” with the crystal.
+
+ If you are here and can contribute in a better way, Feel free and to let me know, and if you like the idea, share it with your friends!
+
+                                                           A strong hug
+
+-->
 
 <!--Quote from Master Yoda-->
 $\Huge{\textsf{\textbf{\textcolor{#00779a}{“In a dark place we find ourselves, and a little more knowledge lights our way.”}}}}$ 
