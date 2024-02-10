@@ -91,4 +91,3 @@ $\Huge{\textsf{\textbf{\textcolor{#00779a}{Contact me}}}}$
 
 <!--My final text-->
 $\Huge{\textsf{\textbf{\textcolor{#00779a}{– Always be on the right side of the Force}}}}$
-
