@@ -20,9 +20,9 @@ $\Huge{\textsf{\textbf{\textcolor{#00779a}{– Yoda}}}}$
 
 <!-- My github status-->
 <div align=center>
-   <a href="https://github.com/1993bio">
-   <img height = 150em align="left" src="https://github-readme-stats.vercel.app/api? username=1993bio&theme=shadow_blue&border_radius=4.5&show_icons=true&include_all_commits=true&count_private=true"/>
-   <img height = 150em align="rihgt" src="https://github-readme-stats.vercel.app/api/top-langs/? username=1993bio&layout=compact&theme=shadow_blue&border_radius=1.5&show_icons=true&langs_count=8&card_width=110"/>
+ <a href="https://github.com/1993bio">
+<img height = 150em align="left" src="https://github-readme-stats.vercel.app/api? username=1993bio&theme=shadow_blue&border_radius=4.5&show_icons=true&include_all_commits=true&count_private=true"/>
+<img height = 150em align="rihgt" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1993bio&layout=compact&theme=shadow_blue&border_radius=1.5&show_icons=true&langs_count=8&card_width=110"/>
 </div>
 
 <!-- More details tab-->
